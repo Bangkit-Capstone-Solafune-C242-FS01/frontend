@@ -1,5 +1,7 @@
 # SEGMA Frontend
 
+This repository contains the implementation of a frontend designed for the Company Track Capstone at Solafune Inc. by the C242-FS01 Team. The frontend is built using Bootstrap and includes functionality for image prediction and geographic data retrieval using running/deployed backend URLs.
+
 ---
 
 ## Features
@@ -7,7 +9,7 @@
 - **User Dashboard**: Visualize.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Integration**: Connects seamlessly with the backend API for data fetching.
-- **Maps Segmentation**: Segmentation with chosen longitude and latitude from google maps.
+- **Maps Segmentation**: Segmentation with chosen longitude and latitude from Google Maps.
 - **Upload File Segmentation**: Segmentation with uploaded TIF format file.
 
 ---
